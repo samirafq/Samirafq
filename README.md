@@ -1,4 +1,4 @@
-# 👋 Hi! welcome to my Github profile!
+# 👋 HI! welcome to my Github profile!
 
 ## My name is Samira and I'm a student of Information Technology
 
