@@ -2,7 +2,6 @@
 
 ## My name is Samira and I'm a student of Information Technology
 
-- 😄 Pronomes: ela/dela
 
  <a href="https://github.com/samirafq">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirafq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
