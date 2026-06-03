@@ -1,6 +1,6 @@
 # 👋 HI! welcome to my Github profile!
 
-## My name is Samira and I'm a student of Information Technology
+## My name is Samira and I'm a student of Computer Engineering
 
 
  <a href="https://github.com/samirafq">
